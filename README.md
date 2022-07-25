@@ -1,3 +1,3 @@
 - Olá, bem vindo ao meu perfil do Github, meu nome é Gabriel MJr e tenho interesse em desenvolvimento mobile e engenharia de Software com Java.
-- Você pode ver meus repositórios aqui e pode entrar em contacto comigo no LinkedIn
+- Você pode ver meus repositórios aqui e pode entrar em contacto comigo no [LinkedIn](https://www.linkedin.com/in/gabriel-mucacho-797628239)
 - Estou já há algum tempo e sou muito iniciante em Java.
