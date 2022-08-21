@@ -2,7 +2,7 @@ Olá, bem vindo ao meu perfil do GitHub
 
 **Sobre mim**
 
-   Meu nome é Gabriel MJr, tenho 17 anos e sou Moçambicano, vivo na capital e tenho interesse em Java, estudo Java SE 8 e AndroidStudio já há alguns meses e ainda não fiz faculdade, estudei Python mas me mudei para Java porque me deixava com tédio, pretendo me tornar FullStack Java e faço alguns cursos online.
+   Meu nome é Gabriel MJr (Mucacho Júnior), tenho 17 anos e sou Moçambicano, vivo na capital e tenho interesse em Java, estudo Java SE 8 e AndroidStudio já há alguns meses e ainda não fiz faculdade, estudei Python mas me mudei para Java porque me deixava com tédio, pretendo me tornar FullStack Java e faço alguns cursos online.
 
 
 **Conhecimento**
