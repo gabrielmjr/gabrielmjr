@@ -9,6 +9,7 @@ Olá, bem vindo ao meu perfil do GitHub
 - Java SE Iniciante
 - Java POO
 - AndroidStudio Básico (com XML na interface gráfica e uso da biblioteca "android.app.Activity")
+- Banco de dados mySQL no Android Studio (SQLiteOpenHelper)
 - Electricidade Básica (e com certificado)
 - Informática Básica
 - Noção de programação em Python.
