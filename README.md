@@ -40,4 +40,4 @@ Olá, bem vindo ao meu perfil do GitHub
 [LinkedIn](https://www.linkedin.com/in/gabriel-mucacho-797628239)
 [Reddit](https://www.reddit.com/u/GsbrielMJr?utm_medium=android_app&utm_source=share)
 [Instagram](https://www.instagram.com/gabrielmjr2204/)
-[WhatsApp](wa.me/258844269896)
+[WhatsApp](https://wa.me/258844269896)
