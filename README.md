@@ -8,7 +8,7 @@ Olá, bem vindo ao meu perfil do GitHub
 **Conhecimento**
 - Java SE Iniciante
 - Java POO
-- AndroidStudio Básico (com XML na interface gráfica e uso da biblioteca "android.app.Activity")
+- AndroidStudio Básico (com XML na interface gráfica e uso da biblioteca AppCompatActivity)
 - Banco de dados mySQL no Android Studio (SQLiteOpenHelper)
 - Electricidade Básica (e com certificado)
 - Informática Básica
@@ -40,3 +40,4 @@ Olá, bem vindo ao meu perfil do GitHub
 [LinkedIn](https://www.linkedin.com/in/gabriel-mucacho-797628239)
 [Reddit](https://www.reddit.com/u/GsbrielMJr?utm_medium=android_app&utm_source=share)
 [Instagram](https://www.instagram.com/gabrielmjr2204/)
+[WhatsApp](wa.me/258844269896)
