@@ -6,32 +6,26 @@ Olá, bem vindo ao meu perfil do GitHub
 
 
 **Conhecimento**
-- Java SE Iniciante
+- Java SE core 
 - Java POO
-- AndroidStudio Básico (com XML na interface gráfica e uso da biblioteca AppCompatActivity)
+- AndroidStudio nativo
 - Banco de dados mySQL no Android Studio (SQLiteOpenHelper)
 - Electricidade Básica (e com certificado)
-- Informática Básica
+- Informática
 - Noção de programação em Python.
 - Inglês iniciante
 
-
-**Atualmente estudando:**
-- Último ano do ensino médio
-- Java SE Iniciante → Básico
-- AndroidStudio Iniciante → Básico.
 
 
 **Próximos objetivos**
 - Algoritmos e estrutura de dados em Java
 - JDBC
 - JSON no Java (tenho em mente GSon)
-- Banco de dados no AndroidStudio
 - Biblioteca androidx no AndroidStudio
 - Api Restful em Java
-- Front-end (HTML, CSS e JS)
 - Java EE
-- Spring Framework.
+- Spring Framework
+- Redes neurais.
 
 
 **Contacto**
