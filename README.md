@@ -1,11 +1,13 @@
 Olá, Meu nome é Gabriel MJr (Mucacho Júnior)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
 
 **Skills**
 - Java SE core 
 - Java POO
 - AndroidStudio nativo
-- Banco de dados mySQL no Android Studio (SQLiteOpenHelper)
+-
+ Banco de dados mySQL no Android Studio (SQLiteOpenHelper)
 - Noção de programação em Python.
 
 
