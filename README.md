@@ -1,5 +1,4 @@
 Olá, Meu nome é Gabriel MJr (Mucacho Júnior)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
 
 **Skills**
