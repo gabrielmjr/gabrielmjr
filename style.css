@@ -1,7 +1,14 @@
-div.container {
-  display: inline-block;
+* {
+  box-sizing: border-box;
+}
+
+.build_tool {
+  float: left;
+  width: 50%;
+  padding: 10px;
 }
 
 p {
   text-align: center;
+  color: red;
 }
