@@ -1,0 +1,28 @@
+# This workflow exists because my readme file is a html file on my machine, I'm developing my readme as html and when I push, this workflow runs a Java filé that rename from README.html to README.md, and so it can be recognized by GitHub as readme file
+name: Renamer script
+on [ push ]
+jobs: 
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: action/checkout@v3
+      - name: Setup Java
+        with:
+          java-version: '17'
+          distribution: 'adopt'
+
+      - name: Run Java renamer
+        run: java gabrielmjr/script/Útil.java
+
+      - name: Commit renamed file
+        run: |
+             git config --local user.email "action@github.com"
+             git config --local user.name "GitHub Actions"
+             git add -A
+             git commit -m "Renamed README.html to README.md"
+
+      - name: Push updates
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
