@@ -4,7 +4,7 @@ import java.io.File;
 
 public class Util
 {
-  private static final String HOME = "/home/runne/work/gabrielmjr/gabrielmjr";
+  private static final String HOME = "/home/runner/work/gabrielmjr/gabrielmjr";
   
   private static File old_readme_file;
   private static File new_readme_file;
