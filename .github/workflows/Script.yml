@@ -16,8 +16,8 @@ jobs:
 
       - name: Run Java renamer
         run: |
-             pwd
-             java /home/runner/work/gabrielmjr/gabrielmjr/Util.java
+             cd script
+             java Util.java
 
       - name: Commit renamed file
         run: |
