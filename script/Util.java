@@ -13,7 +13,8 @@ public class Util
     old_readme_file = new File("/home/runner/work/gabrielmjr/gabrielmjr/README.html");
     
     if (old_readme_file.exists())
-      throw new IOException("File already exists...");
+      System.out.println("File already exists...");
+      System.exit(1);
     
     new_readme_file = new File("/home/runner/work/gabrielmjr/gabrielmjr/README.md");
     
