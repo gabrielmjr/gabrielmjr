@@ -12,8 +12,7 @@ initial-scale=1.0"
     
 <h2>Skills</h2>
 <h3>Programming languages</h3>
-
-[![Programming languages](https://skills.thijs.gg/icons?i=java&theme=light)](https://skills.thijs.gg)
+<img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/java.svg"/>
 
 <h3>Databases</h3>
 
