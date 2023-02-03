@@ -19,7 +19,8 @@ public class Util
     new_readme_file = new File("/home/runner/work/gabrielmjr/gabrielmjr/README.md");
     
     if (!renameReadmeFile())
-      throw new IOException("File not renamed");
+      System.out.println("File not renamed");
+      System.exit(0);
   }
   
   private static Boolean renameReadmeFile()
