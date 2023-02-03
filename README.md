@@ -7,13 +7,13 @@ initial-scale=1.0"
   
 <body>
 <h1>Introduction</h1>
-<p>Hi, my name is GabrielMJr (Gabriel Mucacho Junior), I'm 18 years old {}and I'm new on programming world.</p>
+<p>Hi, my name is GabrielMJr (Gabriel Mucacho Junior), I'm 18 years old and I'm new on programming world.</p>
 <p>I'm realy interested in Softwares engeneering with Java and Spring boot!</p>
     
 <h2>Skills</h2>
 <h3>Programming languages</h3>
 
-![Java](https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/java.png)
+[![Programming languages](https://skills.thijs.gg/icons?i=java&theme=light)](https://skills.thijs.gg)
 
 <h3>Databases</h3>
 
