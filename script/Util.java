@@ -13,12 +13,11 @@ public class Util
   public static void main(String[] args)
   {
     old_readme_file = new File(HOME + "/README.html");
+    new_readme_file = new File(HOME + "/README.md");
     
     if (new_readme_file.exists())
       System.out.println("File already exists...");
       System.exit(1);
-    
-    new_readme_file = new File(HOME + "/README.md");
     
     if (!renameReadmeFile())
       System.out.println("File not renamed");
