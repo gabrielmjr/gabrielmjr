@@ -14,7 +14,7 @@ public class Util
   {
     old_readme_file = new File(HOME + "/README.html");
     
-    if (old_readme_file.exists())
+    if (new_readme_file.exists())
       System.out.println("File already exists...");
       System.exit(1);
     
