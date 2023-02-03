@@ -21,7 +21,7 @@ public class Util
       throw new IOException("File not renamed");
   }
   
-  private Boolean renameReadmeFile()
+  private static Boolean renameReadmeFile()
   {
     return old_readme_file.renameTo(new_readme_file);
   }
