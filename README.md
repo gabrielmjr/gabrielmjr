@@ -11,7 +11,10 @@ initial-scale=1.0"/>
 </br>
 <p>I'm now Android Mobile and Java developer!</p>
 
-    
+<h3>My stats</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmjr)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>Skills</h2>
 <h3>Programming languages</h3>
 <img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/java.svg">
