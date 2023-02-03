@@ -37,13 +37,13 @@ initial-scale=1.0"/>
 
 <h2>Contact me</h2>
 
-<a href="https://t.me/GabrielMjr">
+<a href="https://t.me/GabrielMJr05">
 <img width="60px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/telegram.png">
 </a>    <a href="https://www.linkedin.com/in/gabriel-mucacho-797628239">
 <img width="60px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/linkedin.png">
 </a>    <a href="https://www.reddit.com/u/GsbrielMJr?utm_medium=android_app&utm_source=share">
 <img width="60px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/reddit.png">
-</a>    <a href="https://www.instagram.com/gabrielmjr2204/">
+</a>    <a href="https://www.instagram.com/gabrielmjr05/">
 <img width="60px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/instagram.png">
 </a>    <a href="https://wa.me/258844269896">
 <img width="60px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/whatsapp.png">
