@@ -19,12 +19,16 @@ public class Util
     new_readme_file = new File(HOME + "/README.md");
     
     if (new_readme_file.exists())
+    {
       System.out.println("File already exists...");
       System.exit(2);
-    
+    }
+
     if (!renameReadmeFile())
+    {
       System.out.println("File not renamed");
       System.exit(0);
+    }
   }
   
   private static Boolean renameReadmeFile()
