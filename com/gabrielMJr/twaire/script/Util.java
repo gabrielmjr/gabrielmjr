@@ -1,3 +1,5 @@
+package com.gabrielMJr.twaire.script;
+
 import java.io.IOException;
 import java.io.File;
 
@@ -12,6 +14,7 @@ public class Util
   
   public static void main(String[] args)
   {
+    System.out.println("Renamer started");
     old_readme_file = new File(HOME + "/README.html");
     new_readme_file = new File(HOME + "/README.md");
     
