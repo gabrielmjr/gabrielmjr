@@ -3,9 +3,6 @@
 <meta charset="utf-8"
 <meta name="viewport" content="width=device-width,
 initial-scale=1.0"
-<link rel="stylesheet"
-type="text/css"
-href="style.css"
 </head>
   
 <body>
@@ -15,22 +12,27 @@ href="style.css"
     
 <h2>Skills</h2>
 <h3>Programming languages</h3>
-<div class="programming_language">
-<div class="language">
-<img src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/java.png">
-</div>
-</div>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+<h3>Databases</h3>
+
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<h3>Automation</h3>
+
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 <h3>Build tools</h3>
-<div class="build_tools">
-<div class="build_tool">
-<img src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/maven.png"
-style="width: 100%">
-</div>
-<div class="build_tool">
-<img src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/gradle.png"
-style="width: 100%">
-</div>
-</div>
+
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+
+
+<h3>Version Control System</h3>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 </body>
 </html>
