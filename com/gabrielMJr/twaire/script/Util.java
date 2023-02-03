@@ -20,7 +20,7 @@ public class Util
     
     if (new_readme_file.exists())
       System.out.println("File already exists...");
-      System.exit(1);
+      System.exit(2);
     
     if (!renameReadmeFile())
       System.out.println("File not renamed");

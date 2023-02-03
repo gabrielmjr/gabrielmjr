@@ -15,7 +15,7 @@ jobs:
           distribution: 'adopt'
 
       - name: Run Java renamer
-        run: java com/gabrielMJr/twaire/script/Util
+        run: java com/gabrielMJr/twaire/script/Util.java
 
       - name: Commit renamed file
         run: |
