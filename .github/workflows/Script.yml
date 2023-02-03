@@ -1,6 +1,8 @@
 # This workflow exists because my readme file is a html file on my machine, I'm developing my readme as html and when I push, this workflow runs a Java filé that rename from README.html to README.md, and so it can be recognized by GitHub as readme file
 name: Renamer script
-on: [ push ]
+on:
+  push:
+    branches: [ main ]
 jobs: 
   build:
     runs-on: ubuntu-latest
