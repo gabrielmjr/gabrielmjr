@@ -29,6 +29,9 @@ initial-scale=1.0"/>
 
 <img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/maven.png"/>    <img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/gradle.png"/>
 
+<h3>Automated tests</h3>
+<img width="60px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/junit-jupiter.png"/>
+
 <h3>Version Control System</h3>
 
 <img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/git.png"/>   <img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/github.png"/>
