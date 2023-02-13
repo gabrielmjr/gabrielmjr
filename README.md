@@ -9,7 +9,7 @@ initial-scale=1.0"/>
 <h1>Hi👋🏽, Welcome to my profile🙃</h1>
 <p>My name is GabrielMJr (Gabriel Mucacho Junior), I'm Mozambican🙂 and I'm 18 years old and I'm new on programming world.</p>
 </br>
-<p>I'm now Android Mobile and Java developer!</p>
+<p>I'm new in Android Mobile and Java developer!</p>
 
 <h3>My stats</h3>
 
