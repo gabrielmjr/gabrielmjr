@@ -7,13 +7,13 @@ initial-scale=1.0"/>
   
 <body>
 <h1>Hi👋🏽, Welcome to my profile🙃</h1>
-<p>My name is GabrielMJr (Gabriel Mucacho Junior), I'm Mozambican🙂, I'm 18 years old and I'm new on programming world.</p>
+<p>My name is GabrielMJr (Gabriel Mucacho Junior), I'm Mozambican🙂, I'm 17 years old and I'm new on programming world.</p>
 <br/>
 <h2>🌴About me</h2>
 <p>🌅I'm new in Android Mobile and Java developer!</p>
-<p>💻I'm self Java student and I intend to become Full Stack Java Developer.</p>
+<p>💻I'm self Java student and I intend to become Full Stack Java Developer with SpringFramework.</p>
 
-<h3>My stats</h3>
+<h3>My stats and public contributions</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmjr)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,7 +26,7 @@ initial-scale=1.0"/>
 *****<p>Portuguese (native)</p>
 *****<p>English (basic)</p>*****
 
-<h2>Contact me</h2>
+<h2>Contact me with...</h2>
 
 <a href="https://t.me/GabrielMJr05">
 <img width="60px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/telegram.png">
