@@ -18,6 +18,7 @@ initial-scale=1.0"/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmjr)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3><img width="20px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/computer.gif"/>My tech Skills</h3>
+
 <img width="50px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/java.svg"/>
 <img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/android.png"/>
 <img width="80px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/sqlite.png"/>
