@@ -19,13 +19,7 @@ initial-scale=1.0"/>
 
 <h3><img width="20px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/computer.gif"/>My tech Skills</h3>
 
-<img width="50px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/java.svg"/>
-<img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/android.png"/>
-<img width="80px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/sqlite.png"/>
-<img width="80px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/ci-cd.png"/>
-<img width="50px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/maven.png"/>    <img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/gradle.png"/>
-<img width="60px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/junit-jupiter.png"/>
-<img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/git.png"/>   <img width="65px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/github.png"/>
+<img width="50px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/java.svg"/><img width="60px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/android.png"/><img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/sqlite.png"/><img width="80px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/ci-cd.png"/><img width="50px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/maven.png"/>    <img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/gradle.png"/><img width="60px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/junit-jupiter.png"/><img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/git.png"/>   <img width="65px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/github.png"/>
 
 
 <h3>Languages</h3>
