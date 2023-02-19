@@ -6,7 +6,7 @@ initial-scale=1.0"/>
 </head>
   
 <body>
-<h1>Hi👋🏽, Welcome to my profile🙃</h1>
+<h1>Hi there!👋🏽, Welcome to my profile🙃</h1>
 <p>My name is GabrielMJr (Gabriel Mucacho Junior), I'm Mozambican🙂, I'm 17 years old and I'm new on programming world.</p>
 <br/>
 <h2>🌴About me</h2>
