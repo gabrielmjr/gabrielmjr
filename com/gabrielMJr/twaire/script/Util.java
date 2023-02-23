@@ -21,13 +21,13 @@ public class Util
     if (new_readme_file.exists())
     {
       System.out.println("File already exists...");
-      System.exit(2);
+      System.exit(0);
     }
 
     if (!renameReadmeFile())
     {
       System.out.println("File not renamed");
-      System.exit(0);
+      System.exit(1);
     }
   }
   
