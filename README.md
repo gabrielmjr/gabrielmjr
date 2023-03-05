@@ -12,7 +12,8 @@ initial-scale=1.0"/>
 <h2>🌴About me</h2>
 <p>🌅I'm new in Android Mobile and Java developer!</p>
 <p>💻I'm self Java student and I intend to become Full Stack Java Developer with SpringFramework.</p>
-
+<p>💻 I'm currently learning HTML and CSS</p>
+    
 <h3>My stats and public contributions</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmjr)](https://github.com/anuraghazra/github-readme-stats)
