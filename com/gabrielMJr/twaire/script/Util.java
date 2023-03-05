@@ -6,33 +6,33 @@ import java.io.File;
 
 public class Util
 {
-  private static final String HOME = "/home/runner/work/gabrielmjr/gabrielmjr";
-  
-  private static File old_readme_file;
-  private static File new_readme_file;
-  
-  
-  public static void main(String[] args)
-  {
-    System.out.println("Renamer started");
-    old_readme_file = new File(HOME + "/README.html");
-    new_readme_file = new File(HOME + "/README.md");
-    
-    if (new_readme_file.exists())
-    {
-      System.out.println("File already exists...");
-      System.exit(0);
-    }
+	private static final String HOME = File.separator + "home" + File.separator + "runner" + File.separator + "work" + File.separator + "gabrielmjr" + File.separator + "gabrielmjr";
 
-    if (!renameReadmeFile())
-    {
-      System.out.println("File not renamed");
-      System.exit(1);
-    }
-  }
-  
-  private static Boolean renameReadmeFile()
-  {
-    return old_readme_file.renameTo(new_readme_file);
-  }
+	private static File oldReadmeFile;
+	private static File newReadmeFile;
+
+
+	public static void main(String[] args)
+	{
+		System.out.println("Renamer started");
+		oldReadmeFile = new File(HOME + File.separator + README.html");
+		newReadmeFile = new File(HOME + File.separator + "README.md");
+
+		if (newReadmeFile.exists())
+		{
+			System.out.println("Skipping, file already exists...");
+			System.exit(0);
+			return;
+		}
+		else if (!renameReadmeFile())
+		{
+			System.out.println("File not renamed");
+			System.exit(1);
+		}
+	}
+
+	private static Boolean renameReadmeFile()
+	{
+		return oldReadmeFile.renameTo(newReadmeFile);
+	}
 }
