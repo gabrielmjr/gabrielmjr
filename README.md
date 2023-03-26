@@ -7,23 +7,23 @@ initial-scale=1.0"/>
   
 <body>
 <h1>Hi there!👋🏽, Welcome to my profile🙃</h1>
-<p>My name is GabrielMJr (Gabriel Mucacho Junior), I'm Mozambican🙂, I'm 17 years old and I'm new on programming world.</p>
+<p>My name is GabrielMJr (Gabriel Mucacho Junior),  I'm 17 years old and I'm new on programming world.</p>
 <br/>
 <h2>🌴About me</h2>
 <p>🌅I'm new in Android Mobile and Java developer!</p>
 <p>💻I'm self Java student and I intend to become Full Stack Java Developer with SpringFramework.</p>
 <p>💻 I'm currently learning HTML and CSS</p>
     
-<h3>My stats and public contributions</h3>
+<h2>My stats and public contributions</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmjr)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3><img width="20px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/computer.gif"/>My tech Skills</h3>
+<h2><img width="20px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/computer.gif"/>My tech Skills</h3>
 
 <img width="50px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/java.svg"/><img width="60px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/android.png"/><img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/sqlite.png"/><img width="80px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/ci-cd.png"/><img width="50px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/maven.png"/>    <img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/gradle.png"/><img width="60px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/junit-jupiter.png"/><img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/git.png"/>   <img width="65px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/github.png"/>
 
 
-<h3>Languages</h3>
+<h2>Languages</h3>
 *****<p>Portuguese (native)</p>
 *****<p>English (basic)</p>*****
 
