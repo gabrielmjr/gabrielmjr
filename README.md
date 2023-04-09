@@ -16,7 +16,7 @@ initial-scale=1.0"/>
     
 <h2>My stats and public contributions</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmjr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmjr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2><img width="20px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/computer.gif"/>My tech Skills</h3>
 
