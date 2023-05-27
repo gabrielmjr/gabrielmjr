@@ -10,9 +10,9 @@ initial-scale=1.0"/>
 <p>My name is GabrielMJr (Gabriel Mucacho Junior),  I'm 18 years ols and I love programming world.</p>
 <br/>
 <h2>🌴About me</h2>
-<p>🌅I'm new in Android Mobile and Java developer!</p>
-<p>💻I'm self Java student and I intend to become Full Stack Java Developer with SpringFramework.</p>
-<p>💻 I'm currently learning HTML and CSS</p>
+<p>🌅I'm new in Android Mobile development and Java development!</p>
+<p>💻I'm self Java student and I intend to become a mobile and back and Java developer with SpringFramework.</p>
+<p>💻 I'm currently learning a little bit of Spring boot and i'm right now focused in Android development.</p>
     
 <h2>My stats and public contributions</h2>
 
