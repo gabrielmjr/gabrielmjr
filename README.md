@@ -11,7 +11,7 @@ initial-scale=1.0"/>
 <br/>
 <h2>🌴About me</h2>
 <p>🌅I'm new in Android Mobile development and Java development!</p>
-<p>💻I'm self Java student and I intend to become a mobile and back and Java developer with SpringFramework.</p>
+<p>💻I'm self Java student and I intend to become a Android and Backend Java developer with SpringFramework.</p>
 <p>💻 I'm currently learning a little bit of Spring boot and i'm right now focused in Android development.</p>
     
 <h2>My stats and public contributions</h2>
