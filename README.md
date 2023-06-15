@@ -7,7 +7,7 @@ initial-scale=1.0"/>
   
 <body>
 <h1>Hi there!👋🏽, Welcome to my profile🙃</h1>
-<p>My name is GabrielMJr (Gabriel Mucacho Junior),  I'm 18 years ols and I love programming world.</p>
+<p>My name is GabrielMJr (Gabriel Mucacho Junior),  I'm 18 years olds and I love programming world.</p>
 <br/>
 <h2>🌴About me</h2>
 <p>🌅I'm new in Android Mobile development and Java development!</p>
