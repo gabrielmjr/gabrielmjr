@@ -1,18 +1,15 @@
 <html>
-<head>
-<meta charset="utf-8"
-<meta name="viewport" content="width=device-width,
-initial-scale=1.0"/>
-</head>
-  
 <body>
-<h1>Hi there!👋🏽, Welcome to my profile🙃</h1>
-<p>My name is GabrielMJr (Gabriel Mucacho Junior),  I'm 18 years olds and I love programming world.</p>
+<h1>Hey there!👋👋👋</h1>
+<p>My name is GabrielMJr (Gabriel Mucacho Junior), I'm 18 years olds and I am passionate by programming world.</p>
 <br/>
-<h2>🌴About me</h2>
-<p>🌅I'm new in Android Mobile development and Java development!</p>
-<p>💻I'm self Java student and I intend to become a Android and Backend Java developer with SpringFramework.</p>
-<p>💻 I'm currently learning a little bit of Spring boot and i'm right now focused in Android development.</p>
+<h2>🙍🏽‍♂️About me</h2>
+<p>💻 I'm self Java student and Android developer.</p>
+<p>💻 In the cloud I'm looking for PaaS and SaaS.</p>
+<p>🖥️ I'm looking for frameworks like Spring Framework for the back end.</p>
+<p>👥 I'm opened for open source contributions.</p>
+<p>📚 I also like to create and read documentations.</p>
+<p>📝 For writing documentations I'm using Javadoc, it's a incredible tool for this!</p>
     
 <h2>My stats and public contributions</h2>
 
@@ -24,8 +21,8 @@ initial-scale=1.0"/>
 
 
 <h2>Languages</h3>
-*****<p>Portuguese (native)</p>
-*****<p>English (basic)</p>*****
+<p>Portuguese</p>
+<p>English</p>
 
 <h2>Contact me with...</h2>
 
@@ -47,7 +44,6 @@ initial-scale=1.0"/>
 <a href="https://www.facebook.com/gabrielmucacho.junior.714">
 <img width="60px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/facebook.png">
 </a>
-
 
 </body>
 </html>
