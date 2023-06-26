@@ -2,6 +2,7 @@
 <body>
 <h1>Hey there!👋👋👋</h1>
 <p>My name is GabrielMJr (Gabriel Mucacho Junior), I'm 18 years olds and I am passionate by programming world.</p>
+<img src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/coding.gif"/>
 <br/>
 <h2>🙍🏽‍♂️About me</h2>
 <p>💻 I'm self Java student and Android developer.</p>
@@ -15,7 +16,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmjr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2><img width="20px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/computer.gif"/>My tech Skills</h3>
+<h2>My tech Skills</h3>
+<img src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/computer.gif"/>
 
 <img width="50px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/java.svg"/><img width="60px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/android.png"/><img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/sqlite.png"/><img width="80px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/ci-cd.png"/><img width="50px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/maven.png"/>    <img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/gradle.png"/><img width="60px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/junit-jupiter.png"/><img width="70px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/git.png"/>   <img width="65px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/github.png"/>
 
