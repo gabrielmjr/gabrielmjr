@@ -23,8 +23,8 @@
 
 
 <h2>Languages</h3>
-<p>Portuguese</p>
-<p>English</p>
+
+<img width="150px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/portugal-flag.gif"/>    <img width="150px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/uk-flag.gif"/>
 
 <h2>Contact me with...</h2>
 
