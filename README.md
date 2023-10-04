@@ -6,10 +6,11 @@
 <br/>
 <h2>🙍🏽‍♂️About me</h2>
 <p>💻 I'm self Java student and Android developer.</p>
-<p>💻 In the cloud I'm looking for PaaS and SaaS.</p>
-<p>🖥️ I'm looking for frameworks like Spring Framework for the back end.</p>
+<p>💻 In the cloud I'm looking for PaaS</p>
+<p>🖥️ I'm passionate of Android and Back End development.</p>
 <p>👥 I'm opened for open source contributions.</p>
 <p>📚 I also like to create and read documentations.</p>
+<My primary languages are Java and Kotlin and opened for learn tools that will help me>
 <p>📝 For writing documentations I'm using Javadoc, it's a incredible tool for this!</p>
     
 <h2>My stats and public contributions</h2>
