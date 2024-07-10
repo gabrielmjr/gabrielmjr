@@ -6,7 +6,7 @@
 <br/>
 <h2>🙍🏽‍♂️About me</h2>
 <p>💻 I'm self Java student and Android developer.</p>
-<p>💻 In the cloud I'm looking for PaaS</p>
+<p>💻 In the cloud computing I'm looking for Iaas and Firebase</p>
 <p>🖥️ I'm passionate of Android and Back End development.</p>
 <p>👥 I'm opened for open source contributions.</p>
 <p>📚 I also like to create and read documentations.</p>
