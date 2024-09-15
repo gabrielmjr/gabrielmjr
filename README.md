@@ -1,19 +1,26 @@
 <h1>Hey there!👋👋👋</h1>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&pause=700&color=2E29F7&center=true&width=435&lines=Gabriel+Mucacho+J%C3%BAnior;Gabriel+MJr)](https://git.io/typing-svg)
+
+</div>
 
 <p>I'm 19 years olds and I am passionate by programming world.</p>
 <br />
 
 <div align="center">
-<img width="200px" src="images/coding.gif"/>
+<img width="70%" src="images/coding.gif"/>
 </div>
 
 <div align="center">
 <h3>My interests are:</h3>
 </div>
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&pause=500&center=true&width=435&lines=Backend+Development;Android+Development;Cloud+Computing)](https://git.io/typing-svg)
+
+</div>
 
 <h2>🙍🏽‍♂️More Personal Information</h2>
 <p>It's my first year in bachelor degree in Informatic Engineering (also called Computers/Software Engineering) at Eduardo Moondlane University.</p>
