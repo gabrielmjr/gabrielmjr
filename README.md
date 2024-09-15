@@ -6,7 +6,7 @@
 <br />
 
 <div align="center">
-<img width="70%" src="images/coding.gif"/>
+<img width="200px" src="images/coding.gif"/>
 </div>
 
 <div align="center">
@@ -44,39 +44,39 @@ My primary languages are Java and Kotlin with a little bit of Python and I'm ope
 
 <div align="center">
 <h3>Stack</h3>
-<img width="40%" src="images/android.png">
-<img width="25%" src="images/cloud.svg">
+<img width="100px" src="images/android.png">
+<img width="100px" src="images/cloud.svg">
 </div>
 
 <div align="center">
 <h3>Programming/Query Languages</h3>
-<img width="17%" src="images/java.svg"/>
-<img width="17%" src="images/kotlin.png"/>
-<img width="17%" src="images/python.png"/>
-<img width="17%" src="images/sql.png"/>
+<img width="100px" src="images/java.svg"/>
+<img width="100px" src="images/kotlin.png"/>
+<img width="100px" src="images/python.png"/>
+<img width="100px" src="images/sql.png"/>
 </div>
 
 <br /><br />
 
 <div align="center">
 <h3>Frameworks</h3>
-<img width="45%" src="images/spring.svg"/>
+<img width="100px" src="images/spring.svg"/>
 </div>
 
 <br />
 
 <div align="center">
 <h3>Build Tools</h3>
-<img width="30%" src="images/gradle.png"/>
-<img width="30%" src="images/maven.png"/>
+<img width="100px" src="images/gradle.png"/>
+<img width="100px" src="images/maven.png"/>
 </div>
 
 <br />
 
 <div align="center">
 <h3>Databases</h3>
-<img width="30%" src="images/sqlite.png"/>
-<img width="20%" src="images/postgres.svg"/>
+<img width="100px" src="images/sqlite.png"/>
+<img width="100px" src="images/postgres.svg"/>
 </div>
 
 
@@ -84,22 +84,22 @@ My primary languages are Java and Kotlin with a little bit of Python and I'm ope
 
 <div align="center">
 <h3>Unit Testing</h3>
-<img width="30%" src="images/junit-jupiter.png">
+<img width="100px" src="images/junit-jupiter.png">
 </div>
 
 <Br />
 
 <div align="center">
 <h3>Versioning</h3>
-<img width="30%" src="images/git.png"/>
-<img width="30%" src="images/github.png"/>
+<img width="100px" src="images/git.png"/>
+<img width="100px" src="images/github.png"/>
 </div>
 
 <br />
 
 <div align="center">
 <h3>Other Tools and Practices</h3>
-<img width="40%" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/ci-cd.png"/>
+<img width="100px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/ci-cd.png"/>
 </div>
 
 <br />
@@ -107,8 +107,8 @@ My primary languages are Java and Kotlin with a little bit of Python and I'm ope
 <div align="center">
 <h2>Languages</h3>
 
-<img width="35%" src="images/mz⁄pt-flag.jpg"/>   
-<img width="30%" src="images/uk-flag.png"/>
+<img width="120px" src="images/mz⁄pt-flag.jpg"/>   
+<img width="100px" src="images/uk-flag.png"/>
 </div>
 
 <br />
