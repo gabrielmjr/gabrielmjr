@@ -15,7 +15,7 @@
 </div>
 
 <h2>🙍🏽‍♂️More Personal Information</h2>
-<p>It's my first year in bachelor degree in Informatic Engineering (also called Computers/Software Engineering) at Eduardo Moondlane University.</p>
+<p>It's my second year in bachelor degree in Informatic Engineering (also called Computers/Software Engineering) at Eduardo Moondlane University.</p>
 <p>💻 I'm self student in Backend (with Java) and Android Developer (Java + Kotlin), check out my pinned projects bellow.</p>
 <p>💻 In the cloud computing I'm currently using IaaS (AWS EC2) and BaaS (Firebase), they're good tools</p>
 <p>🖥️ To document my APIs in backend development I'm using Swagger, similar to JavaDoc, it auto generates the documentation.</p>
@@ -84,7 +84,7 @@ My primary programming languages are Java and Kotlin with a little bit of Python
 <th><h3>API</h3</th>
 <td>
 <img width="80px" src="images/rest_api.png"/>
-<img width="100px" src="images/graphql_api.png"/>
+<img width="80px" src="images/graphql_api.png"/>
 <td>
 </tr>
 
