@@ -21,20 +21,8 @@
 <p>🖥️ To document my APIs in backend development I'm using Swagger, similar to JavaDoc, it auto generates the documentation.</p>
 <p>👥 I'm opened for open source contributions.</p>
 <p>📚 Study new things using official (and also trusted) trainning programs (tutorials) is actually my routine.</p>
-My primary languages are Java and Kotlin with a little bit of Python and I'm opened for learn tools that will help me, check out my tech skills
+My primary programming languages are Java and Kotlin with a little bit of Python and I'm opened for learn tools that will help me, check out my tech skills
 </p>
-    
-<h2>My stats and public contributions</h2>
-<p>Lately I'm not too much active but I still keep coding almost daily, check out my contributions bellow.</p>
-
-<div align="center">
-
-[![Gabriel MJr's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmjr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Gabriel MJr's language stats](https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmjr&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparentalt=%22Most%20Languages)]
-
-</div>
 
 <h2><img src="images/code.png" width="15%" align="center"/>My Tech Skills</h3>
 
@@ -72,6 +60,7 @@ My primary languages are Java and Kotlin with a little bit of Python and I'm ope
 <th><h3>Frameworks</h3></th>
 <td>
 <img width="90px" src="images/spring.svg"/>
+<img width="80px" src="images/jetpack_compose.png"/>
 </td>
 </tr>
 
@@ -89,6 +78,14 @@ My primary languages are Java and Kotlin with a little bit of Python and I'm ope
 <img width="80px" src="images/sqlite.png"/>
 <img width="40px" src="images/postgres.svg"/>
 </td>
+</tr>
+
+<tr>
+<th><h3>API</h3</th>
+<td>
+<img width="80px" src="images/rest_api.png"/>
+<img width="100px" src="images/graphql_api.png"/>
+<td>
 </tr>
 
 <tr>
@@ -124,6 +121,17 @@ My primary languages are Java and Kotlin with a little bit of Python and I'm ope
 </tbody>
 
 </table>
+</div>
+    
+<h2>My stats and public contributions</h2>
+
+<div align="center">
+
+[![Gabriel MJr's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmjr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Gabriel MJr's language stats](https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmjr&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparentalt=%22Most%20Languages)]
+
 </div>
 
 <div align="center">
