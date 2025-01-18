@@ -1,22 +1,14 @@
-<h1>Hey there!👋👋👋</h1>
 <div align="center">
+
+<h1 align="center">Hey there!👋👋👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&pause=700&color=2E29F7&center=true&width=435&lines=Gabriel+Mucacho+J%C3%BAnior;Gabriel+MJr)](https://git.io/typing-svg)
 
-</div>
+<p>I'm 20 years olds and I am passionate by programming world.</p>
 
-<p>I'm 19 years olds and I am passionate by programming world.</p>
-<br />
-
-<div align="center">
 <img width="70%" src="images/coding.gif"/>
-</div>
 
-<div align="center">
 <h3>My interests are:</h3>
-</div>
-
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&pause=500&center=true&width=435&lines=Backend+Development;Android+Development;Cloud+Computing)](https://git.io/typing-svg)
 
@@ -25,7 +17,7 @@
 <h2>🙍🏽‍♂️More Personal Information</h2>
 <p>It's my first year in bachelor degree in Informatic Engineering (also called Computers/Software Engineering) at Eduardo Moondlane University.</p>
 <p>💻 I'm self student in Backend (with Java) and Android Developer (Java + Kotlin), check out my pinned projects bellow.</p>
-<p>💻 In the cloud computing I'm currently using IaaS (AWS EC2) and PaaS (Firebase), they're good tools</p>
+<p>💻 In the cloud computing I'm currently using IaaS (AWS EC2) and BaaS (Firebase), they're good tools</p>
 <p>🖥️ To document my APIs in backend development I'm using Swagger, similar to JavaDoc, it auto generates the documentation.</p>
 <p>👥 I'm opened for open source contributions.</p>
 <p>📚 Study new things using official (and also trusted) trainning programs (tutorials) is actually my routine.</p>
@@ -40,85 +32,99 @@ My primary languages are Java and Kotlin with a little bit of Python and I'm ope
 [![Gabriel MJr's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmjr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Gbriel MJr's language stats](https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmjr&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparentalt=%22Most%20Languages)]
-<br />
+[![Gabriel MJr's language stats](https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmjr&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparentalt=%22Most%20Languages)]
 
 </div>
-
-<br />
 
 <h2><img src="images/code.png" width="15%" align="center"/>My Tech Skills</h3>
 
 <div align="center">
-<h3>Stack</h3>
-<img width="100px" src="images/android.png">
-<img width="100px" src="images/cloud.svg">
+<table>
+
+<thead>
+<tr>
+<th><h2>Skills</h3></th> 
+<th><h2>Tools/Practices</h2></th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<th><h3>Stack</h3></th>
+<td>
+<img width="40px" src="images/android.png"/>
+<img width="40px" src="images/cloud.svg"/>
+</td>
+</tr>
+
+<tr>
+<th><h3>Programming/Query Languages</h3></th>
+<td>
+<img width="40px" src="images/java.svg"/>
+<img width="40px" src="images/kotlin.png"/>
+<img width="40px" src="images/python.png"/>
+<img width="40px" src="images/sql.png"/>
+</td>
+</tr>
+
+<tr>
+<th><h3>Frameworks</h3></th>
+<td>
+<img width="90px" src="images/spring.svg"/>
+</td>
+</tr>
+
+<tr>
+<th><h3>Build Tools</h3></th>
+<td>
+<img width="40px" src="images/gradle.png"/>
+<img width="40px" src="images/maven.png"/>
+</td>
+</tr>
+
+<tr>
+<th><h3>Databases</h3></th>
+<td>
+<img width="80px" src="images/sqlite.png"/>
+<img width="40px" src="images/postgres.svg"/>
+</td>
+</tr>
+
+<tr>
+<th><h3>Unit Testing</h3></th>
+<td>
+<img width="40px" src="images/junit-jupiter.png"/>
+</td>
+</tr>
+
+<tr>
+<th><h3>Versioning</h3></th>
+<td>
+<img width="40px" src="images/git.png"/>
+<img width="40px" src="images/github.png"/>
+</td>
+</tr>
+
+<tr>
+<th><h3>Other Tools and Practices</h3></th>
+<td>
+<img width="40px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/ci-cd.png"/>
+</td>
+</tr>
+
+<tr>
+<td><h3>Languages</h3></td>
+<td>
+<img width="44px" src="images/mz⁄pt-flag.jpg"/>   
+<img width="40px" src="images/uk-flag.png"/>
+</td>
+</tr>
+
+</tbody>
+
+</table>
 </div>
-
-<div align="center">
-<h3>Programming/Query Languages</h3>
-<img width="100px" src="images/java.svg"/>
-<img width="100px" src="images/kotlin.png"/>
-<img width="100px" src="images/python.png"/>
-<img width="100px" src="images/sql.png"/>
-</div>
-
-<br /><br />
-
-<div align="center">
-<h3>Frameworks</h3>
-<img width="100px" src="images/spring.svg"/>
-</div>
-
-<br />
-
-<div align="center">
-<h3>Build Tools</h3>
-<img width="100px" src="images/gradle.png"/>
-<img width="100px" src="images/maven.png"/>
-</div>
-
-<br />
-
-<div align="center">
-<h3>Databases</h3>
-<img width="100px" src="images/sqlite.png"/>
-<img width="100px" src="images/postgres.svg"/>
-</div>
-
-
-<br />
-
-<div align="center">
-<h3>Unit Testing</h3>
-<img width="100px" src="images/junit-jupiter.png">
-</div>
-
-<Br />
-
-<div align="center">
-<h3>Versioning</h3>
-<img width="100px" src="images/git.png"/>
-<img width="100px" src="images/github.png"/>
-</div>
-
-<br />
-
-<div align="center">
-<h3>Other Tools and Practices</h3>
-<img width="100px" src="https://raw.githubusercontent.com/gabrielmjr/gabrielmjr/main/images/ci-cd.png"/>
-</div>
-
-<br />
-
-<div align="center">
-<h2>Languages</h3>
-
-<img width="120px" src="images/mz⁄pt-flag.jpg"/>   
-<img width="100px" src="images/uk-flag.png"/>
-</div>
-
-<br />
 
 <div align="center">
 <h2>Contact me with...</h2>
