@@ -107,6 +107,9 @@ open_for: Open Source Contributions & Collaboration
 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-%23F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
+![pip](https://img.shields.io/badge/pip-%233775A9.svg?style=for-the-badge&logo=pypi&logoColor=white)
 
 ### 🧪 Testing & Quality
 
